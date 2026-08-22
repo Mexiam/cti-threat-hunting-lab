@@ -14,7 +14,8 @@ The laboratory is isolated from the host's personal network.
 |---------|-------------|-----------------------|
 | WAZUH   | 10.10.10.10 | SIEM / Log collection |
 | LINUX01 | 10.10.10.20 | Monitored Linux host  |
-| LINUX02 | 10.10.10.30 | Internal Linux server |
+| LINUX02 | 10.10.10.30 | Monitored Linux host  |
+| KALI01  | 10.10.10.40 | Simulations           |
 
 ## Architecture
 
