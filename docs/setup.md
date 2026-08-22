@@ -42,10 +42,10 @@ Network: `10.10.10.0/24`
 
 ## Installation status
 
-- [ ] Virtual network created
-- [ ] WAZUH VM created
-- [ ] LINUX01 VM created
-- [ ] LINUX02 VM created
+- [-] Virtual network created
+- [-] WAZUH VM created
+- [-] LINUX01 VM created
+- [-] LINUX02 VM created
 - [ ] Wazuh installed
 - [ ] Wazuh agents installed
 - [ ] auditd configured
